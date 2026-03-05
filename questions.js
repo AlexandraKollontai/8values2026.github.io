@@ -621,11 +621,12 @@ questions = [
         }
     },
        {
-        "question": "Trans youth have the right to puberty blockers without parental consent": {
+        "question": "Trans youth have the right to puberty blockers without parental consent.",
+           effect": {
             "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "dipl": 10,
+            "govt": 10,
+            "scty": 10
         }
     },
     {
@@ -638,5 +639,6 @@ questions = [
         }
     }
 ];
+
 
 
