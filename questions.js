@@ -620,6 +620,14 @@ questions = [
             "scty": 10
         }
     },
+       {
+        "question": "Trans youth have the right to puberty blockers without parental consent": {
+            "econ": 10,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 10
+        }
+    },
     {
         "question": "It is important that we further my group's goals above all others.",
         "effect": {
@@ -630,3 +638,4 @@ questions = [
         }
     }
 ];
+
